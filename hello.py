@@ -1,0 +1,1 @@
+print("Hello, Heloooo, Nihao, Hiiii, Zdarova, Hola, Ciao, Salut, Olá, Hallo, Hej, Aloha, Merhaba, Sawubona, Shalom, Namaste, Marhaba, Sannu, Yassas, Zdravo, Szia, Tere, Sveiki, Kumusta, Dia dhuit!")
